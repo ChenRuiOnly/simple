@@ -9,6 +9,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Test {
     @GetMapping(value = "/fun")
     public String function(){
-        return "123333333have fun got it 999999999999!!!!!!!!";
+        return "good luck!!!!!!!!";
     }
 }
